@@ -1,0 +1,22 @@
+html, body {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+#section3D {
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+#renderCanvas {
+  width: 70%;
+  height: 75%;
+  touch-action: none;
+}
+
+h1 {
+  text-align: center;
+}
+
